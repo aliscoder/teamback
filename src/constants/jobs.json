@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "کاردان کامپیوتر",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "کارشناس کامپیوتر",
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "name": "مهندس شیمی",
+    "categoryId": 2
+  },
+  {
+    "id": 4,
+    "name": "مهندس مواد",
+    "categoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "بوتیک دار",
+    "categoryId": 3
+  },
+  {
+    "id": 6,
+    "name": "عطاری",
+    "categoryId": 3
+  },
+  {
+    "id": 7,
+    "name": "حسابدار",
+    "categoryId": 4
+  },
+  {
+    "id": 8,
+    "name": "مدیر خرید",
+    "categoryId": 4
+  },
+  {
+    "id": 9,
+    "name": "شیمی دان",
+    "categoryId": 5
+  },
+  {
+    "id": 10,
+    "name": "آزمایشگاه دار",
+    "categoryId": 5
+  },
+  {
+    "id": 11,
+    "name": "مرمت آثار باستانی",
+    "categoryId": 6
+  },
+  {
+    "id": 12,
+    "name": "ساختمان ساز",
+    "categoryId": 6
+  },
+  {
+    "id": 13,
+    "name": "کارگردان",
+    "categoryId": 7
+  },
+  {
+    "id": 14,
+    "name": "نویسنده",
+    "categoryId": 7
+  },
+  {
+    "id": 13,
+    "name": "بلاگر",
+    "categoryId": 8
+  },
+  {
+    "id": 14,
+    "name": "تبلیغ گر",
+    "categoryId": 8
+  }
+]
